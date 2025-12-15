@@ -19,7 +19,7 @@ Olá! Me chamo Gabriel Moraes e sou desenvolvedor com foco em front-end, interes
             src="https://custom-icon-badges.demolab.com/badge/LinkedIn-Conectar-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"
         />
     </a>
-    <a href="mailto:SEUEMAIL@EMAIL.COM">
+    <a href="mailto:gabrielmoraesbastos2112@gmail.com">
         <img 
             alt="Email" 
             title="Entre em contato" 
